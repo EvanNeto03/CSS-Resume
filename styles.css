@@ -1,0 +1,17 @@
+body {font-size: 1.5em;font-family: tahoma,sans-serif;margin-left: 25px;
+    background-image: linear-gradient(to right, honeydew, antiquewhite);}
+
+.blueheader {color:blue}
+
+.cc {background-color:gray;}
+.ccc {background-color:lightgray}
+.experience {background-color:aqua;}
+.ainfoheader {font-size: 35pt}
+
+.sec1 {width: 30%;
+        float:left;
+        margin-left: 10px}
+.sec2 {width:30%;
+        float:left;
+        margin-left: 10px}
+.sec3 {width: 40%;}
